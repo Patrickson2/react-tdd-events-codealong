@@ -25,7 +25,7 @@ function App() {
     {pepperoniIsChecked ? <li>Pepperoni</li> : null}
   </ul>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
